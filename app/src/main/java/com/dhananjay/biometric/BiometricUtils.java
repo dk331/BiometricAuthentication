@@ -1,4 +1,4 @@
-package com.ost.biometric;
+package com.dhananjay.biometric;
 
 import android.Manifest;
 import android.content.Context;

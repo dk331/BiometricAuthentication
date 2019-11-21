@@ -1,4 +1,4 @@
-package com.ost.biometric;
+package com.dhananjay.biometric;
 
 import android.annotation.TargetApi;
 import android.content.Context;

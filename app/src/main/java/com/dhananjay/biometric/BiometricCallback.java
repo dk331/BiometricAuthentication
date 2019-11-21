@@ -1,4 +1,4 @@
-package com.ost.biometric;
+package com.dhananjay.biometric;
 
 public interface BiometricCallback {
 

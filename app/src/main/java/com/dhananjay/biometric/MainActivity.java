@@ -1,4 +1,4 @@
-package com.ost.biometric;
+package com.dhananjay.biometric;
 
 import android.os.Bundle;
 import android.widget.TextView;
